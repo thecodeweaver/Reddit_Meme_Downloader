@@ -1,2 +1,2 @@
 # Reddit_Meme_Downloader
- A python script to download saved memes from Reddit using PRAW
+ A python program to download memes from Reddit using the PRAW
